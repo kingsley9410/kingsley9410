@@ -1,6 +1,5 @@
 - 👋 Hi, I’m kingsley joseph
 - 👀 I’m interested in building projects with expert developers.
-- 
 - 🌱 I’m currently learning java, software testing, python etc. 
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me whatsapp +2348136849456.
